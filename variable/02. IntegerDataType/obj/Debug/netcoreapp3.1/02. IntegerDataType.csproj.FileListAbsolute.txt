@@ -1,0 +1,13 @@
+C:\Users\bruno\Documents\repos\variable\02. IntegerDataType\bin\Debug\netcoreapp3.1\02. IntegerDataType.exe
+C:\Users\bruno\Documents\repos\variable\02. IntegerDataType\bin\Debug\netcoreapp3.1\02. IntegerDataType.deps.json
+C:\Users\bruno\Documents\repos\variable\02. IntegerDataType\bin\Debug\netcoreapp3.1\02. IntegerDataType.runtimeconfig.json
+C:\Users\bruno\Documents\repos\variable\02. IntegerDataType\bin\Debug\netcoreapp3.1\02. IntegerDataType.runtimeconfig.dev.json
+C:\Users\bruno\Documents\repos\variable\02. IntegerDataType\bin\Debug\netcoreapp3.1\02. IntegerDataType.dll
+C:\Users\bruno\Documents\repos\variable\02. IntegerDataType\bin\Debug\netcoreapp3.1\02. IntegerDataType.pdb
+C:\Users\bruno\Documents\repos\variable\02. IntegerDataType\obj\Debug\netcoreapp3.1\02. IntegerDataType.csprojAssemblyReference.cache
+C:\Users\bruno\Documents\repos\variable\02. IntegerDataType\obj\Debug\netcoreapp3.1\02. IntegerDataType.AssemblyInfoInputs.cache
+C:\Users\bruno\Documents\repos\variable\02. IntegerDataType\obj\Debug\netcoreapp3.1\02. IntegerDataType.AssemblyInfo.cs
+C:\Users\bruno\Documents\repos\variable\02. IntegerDataType\obj\Debug\netcoreapp3.1\02. IntegerDataType.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\repos\variable\02. IntegerDataType\obj\Debug\netcoreapp3.1\02. IntegerDataType.dll
+C:\Users\bruno\Documents\repos\variable\02. IntegerDataType\obj\Debug\netcoreapp3.1\02. IntegerDataType.pdb
+C:\Users\bruno\Documents\repos\variable\02. IntegerDataType\obj\Debug\netcoreapp3.1\02. IntegerDataType.genruntimeconfig.cache
